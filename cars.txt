@@ -1,7 +1,4 @@
 Mazda RX7-FC3S
 try github pull function -- 2020/11/11 16:25
-<<<<<<< HEAD
 MazdaEfiniRX-7(FD-3S)
-=======
 TOYOTA TURENO GT-APEX(AE86)
->>>>>>> 5db4bd60f97d00a5fe8a6b020ad8420c7de2d4b3
